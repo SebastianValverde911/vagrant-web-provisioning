@@ -12,6 +12,5 @@ sudo systemctl start apache2
 
 # Copiar archivos del proyecto (carpeta compartida Vagrant)
 sudo cp -r /vagrant/www/* /var/www/html/
-
 # Dar permisos
 sudo chown -R www-data:www-data /var/www/html
