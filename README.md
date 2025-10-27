@@ -58,3 +58,9 @@
 
 - Validamos el archivo info.php
 ![info.php](image-5.png)
+
+- Aqui antes de entrar al navegador observamos si tenemos acceso a la base de datos 
+![alt text](image-11.png)
+
+- Se modifica la página PHP para conectarse a la base de datos y mostrar los datos en la web.
+![alt text](image-10.png)
